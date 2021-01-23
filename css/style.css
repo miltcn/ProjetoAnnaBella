@@ -31,7 +31,12 @@ h1{
 	font-size: 1.2em;
 }
 
-h4{
+.img-campanha{
+	border: 10px solid #c3c3ae;
+}
+
+#rodape{
 	text-align: center;
 }
+
 
